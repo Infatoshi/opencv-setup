@@ -1,0 +1,3 @@
+/Users/elliotarledge/Desktop/c++/opencv-setup/build/CMakeFiles/MyProject.dir
+/Users/elliotarledge/Desktop/c++/opencv-setup/build/CMakeFiles/edit_cache.dir
+/Users/elliotarledge/Desktop/c++/opencv-setup/build/CMakeFiles/rebuild_cache.dir
